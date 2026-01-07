@@ -1,0 +1,14 @@
+table,th ,td{
+border:2px solid black;
+border-collapse:collapse;
+padding:8px;
+}
+td:hover{
+background-color:pink;
+}
+header{
+background-color:skyblue;margin-top:50px;
+}
+footer{
+background-color:skyblue;margin-top:50px;
+}
